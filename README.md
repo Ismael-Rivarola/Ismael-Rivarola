@@ -1,13 +1,13 @@
 # ¡Hola! 👋 Soy Ismael Rivarola  
 
-🖥️ **Desarrollador Backend** con experiencia en **PHP, Laravel y MySQL**, y conocimientos de integración con APIs y manejo de bases de datos.  
+🖥️ **Desarrollador Backend** con experiencia en **PHP, Laravel, MySQL, .NET, Visual Basic y C#**, y conocimientos de integración con APIs y manejo de bases de datos.  
 ⚙️ Me apasiona optimizar el rendimiento del servidor y crear arquitecturas eficientes y seguras.  
 
 ---
 
 ## 🚀 Tecnologías y Herramientas
-- **Backend:** PHP, Laravel, MySQL, API REST  
-- **Frontend (apoyo):** HTML, CSS, JavaScript
+- **Backend:** PHP, Laravel, MySQL, API REST, .NET, Visual Basic, C#  
+- **Frontend (apoyo):** HTML, CSS, JavaScript  
 - **DevOps / Herramientas:** Docker, Git, GitHub, Postman  
 
 ---
@@ -20,7 +20,7 @@
 
 ## 📫 Cómo contactarme
 - ✉️ Email: ismaelrivarola4567@gmail.com  
-- 💼 LinkedIn: (https://linkedin.com/in/ismaelrivarola)  
+- 💼 LinkedIn: [https://linkedin.com/in/ismaelrivarola](https://linkedin.com/in/ismaelrivarola)  
 - 📂 Portafolio: *(Próximamente)*  
 
 ---
