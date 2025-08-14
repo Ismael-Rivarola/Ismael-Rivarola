@@ -1,26 +1,26 @@
-# ¡Hola! 👋 Soy Ismael Rivarola  
+# Hello! 👋 I'm Ismael Rivarola  
 
-🖥️ **Desarrollador Backend** con experiencia en **PHP, Laravel, MySQL, .NET, Visual Basic y C#**, y conocimientos de integración con APIs y manejo de bases de datos.  
-⚙️ Me apasiona optimizar el rendimiento del servidor y crear arquitecturas eficientes y seguras.  
-
----
-
-## 🚀 Tecnologías y Herramientas
-- **Backend:** PHP, Laravel, MySQL, API REST, .NET, Visual Basic, C#  
-- **Frontend (apoyo):** HTML, CSS, JavaScript  
-- **DevOps / Herramientas:** Docker, Git, GitHub, Postman  
+🖥️ **Backend Developer** experienced in **PHP, Laravel, MySQL, .NET, Visual Basic, and C#**, with strong knowledge of API integration and database management.  
+⚙️ Passionate about optimizing server performance and building efficient, secure architectures.  
 
 ---
 
-## 📌 Sobre mí
-- 🔭 Actualmente trabajando en **Finanzas Paso a Paso**, desarrollando la API y la lógica de negocio en Laravel.  
-- 🔐 Interesado en buenas prácticas de seguridad y escalabilidad en el backend.  
+## 🚀 Technologies & Tools
+- **Backend:** PHP, Laravel, MySQL, REST API, .NET, Visual Basic, C#  
+- **Frontend (support):** HTML, CSS, JavaScript  
+- **DevOps / Tools:** Docker, Git, GitHub, Postman  
 
 ---
 
-## 📫 Cómo contactarme
+## 📌 About Me
+- 🔭 Currently working on **Finanzas Paso a Paso**, developing the API and business logic with Laravel.  
+- 🔐 Interested in best practices for backend security and scalability.  
+
+---
+
+## 📫 Contact Me
 - ✉️ Email: ismaelrivarola4567@gmail.com  
 - 💼 LinkedIn: [https://linkedin.com/in/ismaelrivarola](https://linkedin.com/in/ismaelrivarola)  
-- 📂 Portafolio: *(Próximamente)*  
+- 📂 Portfolio: *(Coming soon)*  
 
 ---
