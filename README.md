@@ -21,7 +21,7 @@
 ## 📫 Contact Me
 - ✉️ Email: ismaelrivarola4567@gmail.com  
 - 💼 LinkedIn: [https://linkedin.com/in/ismaelrivarola](https://linkedin.com/in/ismaelrivarola)  
-- 📄 [View my CV](https://drive.google.com/file/d/1h77kPl_tj7PQSKHYQADThPCnJZjT407i/view?usp=sharing)  
+- 📄 [View my CV](https://drive.google.com/file/d/1YOuXV-aUcVB9zT6zY2IsHMwAdORkl0Ms/view?usp=sharing)  
 - 📂 Portfolio: *(Coming soon)*  
 
 ---
