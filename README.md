@@ -13,7 +13,7 @@
 ---
 
 ## 📌 About Me
-- 🔭 Currently working on **Finanzas Paso a Paso**, developing the API and business logic with Laravel.  
+- 🔭 Currently working on **Finance game**, developing the API and business logic with Laravel.  
 - 🔐 Interested in best practices for backend security and scalability.  
 
 ---
