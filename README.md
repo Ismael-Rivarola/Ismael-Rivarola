@@ -10,20 +10,39 @@
 - **Frontend (support):** HTML, CSS, JavaScript  
 - **Tools:** Docker, Git, GitHub, Postman  
 
-## Programming Languages & Tools
+---
+
+## 💻 Programming Languages & Tools  
 <p align="center">
-  <img src='https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/php.svg' width='40'/>
-  <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg' width='40'/>
-  <img src='https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/sql.svg' width='30'/> 
-  <img src='https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/html.svg' width='30'/> 
-  <img src='https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/css.svg' width='30'/> 
-  <img src='https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/js.svg' width='30'/> 
-  <img src='https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/git.svg' width='30'/> 
-  <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg' width='40'/> 
-  <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg' width='35'/> 
-  <img src='https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg' width='35'/>
+  <img title="PHP" alt="PHP" src="https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/php.svg" height="40"/>
+  <img title="Laravel" alt="Laravel" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" height="40"/>
+  <img title="MySQL" alt="MySQL" src="https://www.vectorlogo.zone/logos/mysql/mysql-official.svg" height="40"/>
+  <img title="HTML5" alt="HTML5" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40"/>
+  <img title="CSS3" alt="CSS3" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40"/>
+  <img title="JavaScript" alt="JavaScript" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40"/>
+  <img title="Git" alt="Git" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40"/>
+  <img title="Docker" alt="Docker" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40"/>
+  <img title="GitHub" alt="GitHub" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40"/>
+  <img title="Postman" alt="Postman" src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" height="40"/>
 </p>
 
+---
+
+## 🎨 Tech Stack Badges
+<p align="center">
+  
+  ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+  ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+  ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+  ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+  ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+  ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+  ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+  ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+  ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+  ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+
+</p>
 
 ---
 
@@ -35,9 +54,6 @@
 
 ## 📫 Contact Me
 - ✉️ Email: ismaelrivarola4567@gmail.com  
-- 💼 LinkedIn: [https://linkedin.com/in/ismaelrivarola](https://linkedin.com/in/ismaelrivarola)  
+- 💼 LinkedIn: [linkedin.com/in/ismaelrivarola](https://linkedin.com/in/ismaelrivarola)  
 - 📄 [View my CV](https://drive.google.com/file/d/1ZZDLtrkGshIxt2oTn7_iDZqdjlJgYWlE/view?usp=sharing)  
 - 📂 Portfolio: *(Coming soon)*  
-
----
-
