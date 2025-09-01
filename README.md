@@ -1,4 +1,5 @@
-# Hello! 👋 I'm Ismael Rivarola  
+<!-- Saludo animado con Typing SVG -->
+[![Typing SVG](https://readme-typing-svg.demolab.com?size=32&duration=2800&pause=900&color=36BCF7&center=true&vCenter=true&width=800&lines=Hello!+I'm+Ismael+Rivarola;Backend+Developer;PHP+%7C+Laravel+%7C+MySQL)](https://git.io/typing-svg)
 
 🖥️ **Backend Developer** experienced in **PHP, Laravel, MySQL, .NET, Visual Basic, and C#**, with strong knowledge of API integration and database management.  
 ⚙️ Passionate about optimizing server performance and building efficient, secure architectures.  
@@ -12,7 +13,7 @@
 
 ---
 
-## 💻 Programming Languages & Tools  
+## 💻 Programming Languages & Tools
 <p align="center">
   <img title="PHP" alt="PHP" src="https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/php.svg" height="40"/>
   <img title="Laravel" alt="Laravel" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" height="40"/>
